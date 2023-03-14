@@ -1,5 +1,6 @@
 /ramdisk
 /split_img
 
-/ramdisk-new.cpio.gz
-/unsigned-new.img
+ramdisk*
+*.img
+*.zip
